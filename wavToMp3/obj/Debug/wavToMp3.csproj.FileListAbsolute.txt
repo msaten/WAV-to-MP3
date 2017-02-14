@@ -1,0 +1,9 @@
+c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\bin\Debug\wavToMp3.exe.config
+c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\bin\Debug\wavToMp3.exe
+c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\bin\Debug\wavToMp3.pdb
+c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\obj\Debug\wavToMp3.csprojResolveAssemblyReference.cache
+c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\obj\Debug\wavToMp3.frmPrincipal.resources
+c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\obj\Debug\wavToMp3.Properties.Resources.resources
+c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\obj\Debug\wavToMp3.csproj.GenerateResource.Cache
+c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\obj\Debug\wavToMp3.exe
+c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\obj\Debug\wavToMp3.pdb

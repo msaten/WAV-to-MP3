@@ -1,0 +1,10 @@
+14/02/2017 1:57:23 ==> System.ComponentModel.Win32Exception (0x80004005): El sistema no puede encontrar el archivo especificado
+   en System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   en System.Diagnostics.Process.Start()
+   en System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   en wavToMp3.waveToMp3.mciConvertWavMP3(String fileName, Boolean waitFlag, String outdir) en c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\waveToMp3.cs:línea 26
+   en wavToMp3.frmPrincipal.btnConvertir_Click(Object sender, EventArgs e) en c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\Form1.cs:línea 34    en System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   en System.Diagnostics.Process.Start()
+   en System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   en wavToMp3.waveToMp3.mciConvertWavMP3(String fileName, Boolean waitFlag, String outdir) en c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\waveToMp3.cs:línea 26
+   en wavToMp3.frmPrincipal.btnConvertir_Click(Object sender, EventArgs e) en c:\users\moise\onedrive\documentos\visual studio 2015\Projects\wavToMp3\wavToMp3\Form1.cs:línea 34  System
